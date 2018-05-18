@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This layout is created specifically for the photos item detail-->
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TableRow>
+        <ImageView
+            android:id="@+id/imgBarge"
+            android:src="@drawable/barge" />
+        <TextView android:text="Barge Tours" />
+    </TableRow>
+
+    <TableRow>
+        <ImageView
+            android:id="@+id/imgBike"
+            android:src="@drawable/bike" />
+        <TextView android:text="Bike Tours" />
+    </TableRow>
+
+</TableLayout>
+
+

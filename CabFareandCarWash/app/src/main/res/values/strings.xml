@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">Cab Fare and Car Wash</string>
+    <string-array name="txtCarsGroup">
+        <item>Select Car Type...</item>
+        <item>Smart Car</item>
+        <item>Sedan</item>
+        <item>Minivan</item>
+    </string-array>
+</resources>
